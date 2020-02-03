@@ -169,6 +169,7 @@
     display: flex;
     justify-content: center;
     margin-top: 30px;
+    margin-bottom: 20px;
 }
 .btn-main {
     background: #3E99ED;
